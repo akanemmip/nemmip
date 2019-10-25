@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572013121 source:c:\users\student\documents\focp\17b00a02-gr21-repo\lab-04\lab4\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
